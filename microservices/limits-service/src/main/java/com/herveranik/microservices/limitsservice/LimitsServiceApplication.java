@@ -1,4 +1,4 @@
-package com.herveranik.microservices.limits_service;
+package com.herveranik.microservices.limitsservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
